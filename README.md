@@ -1,5 +1,8 @@
 # LogisticsShippingRates
 
+I am editing the README file. Adding some more details about 
+the project description.
+
 Please consider the below factors while contributing
 
 Code Style:
